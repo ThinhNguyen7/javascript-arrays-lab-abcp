@@ -22,6 +22,7 @@ function destructivelyRemoveFirstKitten(){
   return kittens
 }
 
+<<<<<<< HEAD
 function appendKitten(name){
   return [...kitens, name]
 }
@@ -40,3 +41,6 @@ function removeLastKitten(){
   return newcats
 }
 
+=======
+function 
+>>>>>>> f261ecfd091d9339f9cf57ece5a245f7059f439d
